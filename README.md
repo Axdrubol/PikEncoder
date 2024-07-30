@@ -38,7 +38,7 @@ Texto original: "gato"
 ### Funcionalidades Adicionais
 A página possui campos para inserção do texto a ser criptografado ou descriptografado, permitindo que o usuário escolha entre as duas opções. Além disso, implementei um botão que copia o texto criptografado/descriptografado para a área de transferência, facilitando o uso com a mesma funcionalidade do Ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
-##Conclusão
+## Conclusão
 Completar esse projeto me ajudou a melhorar muito minha lógica de programação e estou ansioso para avançar para as próximas fases dessa jornada com a Alura Latam e a Oracle. Espero encontrar vocês mais vezes, seja aqui na plataforma ou, quem sabe, futuramente como colegas de trabalho.
 
 Obrigado por acompanharem meu progresso!
