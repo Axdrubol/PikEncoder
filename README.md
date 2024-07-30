@@ -27,6 +27,7 @@ As "chaves" de criptografia usadas são as seguintes:
 A aplicação deve funcionar apenas com letras minúsculas.
 Não devem ser utilizadas letras com acentos ou caracteres especiais.
 Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+
 Exemplos
 Texto original: "gato"
 Texto criptografado: "gaitober"
