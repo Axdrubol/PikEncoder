@@ -29,7 +29,7 @@ body, html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 60%;
+  height: 70%;
   width: 23%;
   min-width: 200px;
   padding: 20px;
@@ -42,7 +42,7 @@ body, html {
   color: #F7D02C;
   margin-bottom: 20px;
   text-align: center;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .container__lateral__aviso {
@@ -72,7 +72,7 @@ body, html {
 
 .container__esquerda__caixatexto, .container__direita__textocodificado {
   background-color: #1C1C3C;
-  height: 65%;
+  height: 75%;
   width: 100%;
   color: #F2F2F2;
   border-radius: 12px;
@@ -119,21 +119,21 @@ body, html {
 
 .container__direita__faltatexto {
   color: #F2F2F2;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 .container__direita__errofalta {
   color: #F2F2F2;
-  font-size: 1.0em;
+  font-size: 1em;
 }
 
 .container__direita__imagemconan {
-  width: 60%;
+  width: 55%;
   height: auto;
   max-height: 300px;
   border-radius: 12px;
   object-fit: cover;
-  margin: 20px 0;
+  margin: 10px;
 }
 
 .rodape {
